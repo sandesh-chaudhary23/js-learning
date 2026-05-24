@@ -16,4 +16,4 @@ let booleanIsLoggedIn=Boolean(isLoggedIn)
 let someNumber = 44
 let stringNumber = String(someNumber)
 console.log(stringNumber);
-console.log(typeof stringNumber);
+console.log(typeof stringNumber);  
