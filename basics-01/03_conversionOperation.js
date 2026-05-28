@@ -48,3 +48,28 @@ let str3 =str1 +str2
 // gameCounter++;
 // ++gameCounter;
 // console.log(gameCounter);
+
+
+// comparison
+// return in bollean 
+// console.log(2>1);
+// console.log(2>=1);
+// console.log(2<1);
+// console.log(2==1);
+// console.log(2!=1);
+
+// console.log("2">1);
+// console.log("02">1);
+
+// console.log(null>0);
+// console.log(null==0);
+// console.log(null>=0);
+
+// avoid ull and undefind 
+
+// console.log(undefined>0);
+// console.log(undefined==0);
+// console.log(undefined>=0); 
+
+// ===
+// console.log("2"===2 );
