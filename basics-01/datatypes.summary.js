@@ -29,3 +29,22 @@ undefiend = undefiend
 boolean =boolean 
 string =string 
 number =number  
+
+// ++++++
+// stack(primitive)will get the copy   ,   heap(non primitive) will get the refrence of the original value
+// primitive type 
+let myYTname ="frankingaming"
+let anothername = myYTname
+anothername="frankinvlogs"
+console.log(myYTname);
+console.log(anothername);
+
+// nonprimitive type 
+let user1={
+    email:"user@google.com",
+    upi: "user@hdfcbank"
+}
+user2=user1
+user2.email ="frankin@google.com"
+console.log(user1.email);
+console.log(user2.email);
