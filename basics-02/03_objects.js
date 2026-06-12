@@ -2,7 +2,7 @@
 // Object.create
 // if we declare it as litreals it will not be a singleton and if its declared from constructur it will be singleton 
 
-//objects 
+//object literals 
 
 const mysym=Symbol("key1") //use symbol
 
